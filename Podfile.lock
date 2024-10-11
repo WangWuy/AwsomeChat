@@ -1,0 +1,65 @@
+PODS:
+  - Differentiator (5.0.0)
+  - Domain (1.0.0):
+    - RxCocoa
+    - RxSwift
+  - Platform (1.0.0):
+    - Domain
+    - RxCocoa
+    - RxSwift
+  - R.swift (7.3.2)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+  - SteviaLayout (5.1.2)
+  - SwiftLint (0.54.0)
+
+DEPENDENCIES:
+  - Domain (from `Domain`)
+  - Platform (from `Platform`)
+  - R.swift
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - SteviaLayout
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - R.swift
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SteviaLayout
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  Domain:
+    :path: Domain
+  Platform:
+    :path: Platform
+
+SPEC CHECKSUMS:
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  Domain: 35cb85f415e6a0a0fb36a436323b2e99afeb7a34
+  Platform: 057bec561036505d77fcde065be051ee90505e83
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+  SteviaLayout: 05424e528d643657d39ce72c786e4adf13cfc5f2
+  SwiftLint: c1de071d9d08c8aba837545f6254315bc900e211
+
+PODFILE CHECKSUM: 0371018ecf504e4679b37ab14aa4277f82fd28de
+
+COCOAPODS: 1.15.0

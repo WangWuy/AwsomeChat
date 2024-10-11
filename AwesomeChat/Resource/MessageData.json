@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Phạm Long",
+            "message": "Chào em. Anh đứng đây từ chiều",
+            "time": "11:52"
+        },
+        {
+            "id": "2",
+            "name": "Johnson Baby",
+            "message": "Xin chào bạn. Tên tôi là Johnson",
+            "time": "10:09"
+        },
+        {
+            "id": "3",
+            "name": "Trần Hương Mai",
+            "message": "Tớ sẽ liên hệ với bạn sớm nhất có thể",
+            "time": "08:00"
+        },
+        {
+            "id": "4",
+            "name": "Kevin Dinh Khanh",
+            "message": "Ông biết chuyện gì chưa. Vụ này căng lắm",
+            "time": "Hôm qua"
+        },
+        {
+            "id": "5",
+            "name": "Hải Anh",
+            "message": "Hôm qua chị quên k đưa cho em tiền mặt",
+            "time": "05/03/2024"
+        },
+        {
+            "id": "6",
+            "name": "Ánh Ngọc Nguyễn",
+            "message": "Chào em. Anh là Minh đến từ công ty Yopaz",
+            "time": "05/03/2024"
+        },
+        {
+            "id": "7",
+            "name": "Quang Huy",
+            "message": "Tôi đã liên hệ cho bạn từ hôm qua nhưng không được",
+            "time": "04/03/2024"
+        },
+        {
+            "id": "8",
+            "name": "Xuân Anh",
+            "message": "Gọi cho tôi khi cậu đến nơi nhé",
+            "time": "02/03/2024"
+        }
+    ]
+
+}
